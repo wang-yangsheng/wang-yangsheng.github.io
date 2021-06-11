@@ -100,10 +100,10 @@ head_links:
     sup:
       0:
         name: Github
-        link: https://github.com/wang-yangsheng
+        link: https://github.com/wyangsheng
       last:
         name: Hosted by Github Pages
-        link: https://github.com/wang-yangsheng/wang-yangsheng.github.io
+        link: https://github.com/wyangsheng/wyangsheng.github.io
     sub:
       csdn:
         name: CSDN 博客
